@@ -1,0 +1,42 @@
+{
+    "mortgage":{
+       "income": 0.00,
+       "expense": 1234.45,
+       "frequency": 1 
+    },
+    "personal loans":{
+        "income": 0.00,
+        "expense": 2345.55,
+        "frequency": 1
+    },
+    "credit card expense":{
+        "income": 0.00,
+        "expense": 132.55,
+        "frequency": 1
+    },
+    "other expenses":{
+        "income": 0.00,
+        "expense": 125.40,
+        "frequency": 1
+    },
+    "salary": {
+        "income": 50000.23,
+        "expense": 0,
+        "frequency": 0.083
+    },
+    "rental income": {
+        "income": 3000,
+        "expense": 0,
+        "frequency": 1
+    },
+    "investment income": {
+        "income": 1000,
+        "expense": 0,
+        "frequency": 1
+    },
+    "random expense": {
+        "income": 0,
+        "expense": 4000,
+        "frequency": 1
+    }       
+}
