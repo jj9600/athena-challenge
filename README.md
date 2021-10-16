@@ -20,6 +20,6 @@ Application will have the form
 There will be an entry per cashflow, and each entry will contain three fields `income`, `expense` & `frequency`
 
 
-`income` relates to an in flowing cash flow
-`expense` relates to an out flowing cash flow
-`frequency` relates to the number of that cash flow **per month**
+* `income` relates to an in flowing cash flow
+* `expense` relates to an out flowing cash flow
+* `frequency` relates to the number of that cash flow **per month**
